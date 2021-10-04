@@ -1,0 +1,12 @@
+Thong tin sinh vien
+Bui Duc Duy - 187IT06773
+TP.HCM
+21
+CNTT
+Bang diem:
+10
+-
+9
+8
+7
+6
